@@ -12,9 +12,9 @@ This project was completed from scratch in VS Code. While using references, I im
 
 By starting with a basic skeleton, you then add in you html for whatever structure you would prefer. You then create a style.css sheet and get creative! This project is for you, so it gets to be subjective.
 
-![Top of the page](<images/Website SC.png>)>
+![Top of the page](<images/Website SC.png>)
 ![Middle of the page](<images/Website SC 2.png>)
-![Bottom of the page](<images/Website SC 3.png>)>
+![Bottom of the page](<images/Website SC 3.png>)
 
 ## Credits
 
