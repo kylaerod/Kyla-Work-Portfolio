@@ -103,14 +103,13 @@ p {
 .About-the-Artist h2{
     margin-bottom: 20px;
     font-size: 40px;
+    margin: 20px
 }
 
 .Works {
-    margin-bottom: 20px;
-    margin-right: -200px;
-    margin-left: 100px;
+    margin: 30px -200px 20px 100px;
     padding: 50px;
-    height: 500px;
+    height: 800px;
     font-family: serif;
     color: #ffffff;
     text-align: center;
@@ -123,19 +122,19 @@ p {
 
 .Works h2{
     margin-bottom: 20px;
-    font-size: 36px;
+    font-size: 40px;
+    margin: 20px
 }
 
 #campfire{
-    background-image: url(camp.jpg);
    width: 300px;
    height: 150px;
    float: left;
-   margin-left: 100px;
+   margin-left: 150px;
 }
 
+
 #city{
-    background-image: url(city.jpg);
     width: 300px;
    height: 150px;
    float: right;
@@ -143,20 +142,19 @@ p {
 }
 
 #forest{
-    background-image: url(forest.jpg);
     width: 300px;
     height: 150px;
     float: left;
-    margin: 25px 300px 0 100px;
+    margin: 175px 200px 0 150px;
     display: inline-block
 }
 
 #eye{
-    background-image: url(eye\ sky.png);
     width: 300px;
     height: 150px;
     float: right;
-    margin-top: 175px;
+    margin: -175px 150px 0 200px;
+    display: inline-block;
 }
 
 .footer {
@@ -167,5 +165,14 @@ p {
 }
 
 .footer h2 {
-    font-size: 20px;
+    font-size: 30px;
+    text-align: center;
+    color: #ffffff;
+    height: 75px;
+}
+
+.footer p{
+    text-align: center;
+    color: #ffffff;
+    height: 75px;
 }
