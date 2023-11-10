@@ -1,0 +1,127 @@
+*{
+box-sizing:border-box;
+margin: 0;
+padding: 0;
+font-family: serif;
+}
+
+body {
+    background-color: #42455a;
+}
+
+.header{
+padding: 20px;
+background-color: aquamarine;
+color: white;
+}
+
+.header h1 {
+    display: inline-block;
+    font-size: 48px;
+}
+
+.header nav {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: serif;
+    font-size: 20px;
+}
+
+.header nav ul {
+    list-style-type: none;
+}
+
+.header nav ul li {
+    display: inline-block;
+    margin-left: 25px;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
+
+.avatar img{
+    width: 500px;
+    height: 500px;
+    margin-bottom: 25px;
+    margin-left: 500px;
+    
+}
+
+.active{
+    color: #19dafa !important;
+}
+
+.content{
+   width: 80%;
+   display: inline-block;
+   margin-left: 20px;
+}
+
+.Welcome {
+    margin-bottom: 20px;
+    margin-right: -200px;
+    margin-left: 100px;
+    padding: 50px;
+    height: 300px;
+    font-family: serif;
+    background-color: #b5bb00;
+    color: #ffffff;
+    text-align: center;
+}
+
+.Welcome h2{
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.About-the-Artist {
+    margin-bottom: 20px;
+    margin-right: -200px;
+    margin-left: 100px;
+    padding: 50px;
+    height: 300px;
+    font-family: serif;
+    background-color: #b5bb00;
+    color: #ffffff;
+    text-align: center;
+}
+
+.About-the-Artist h2{
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.Works {
+    margin-bottom: 20px;
+    margin-right: -200px;
+    margin-left: 100px;
+    padding: 50px;
+    height: 300px;
+    font-family: serif;
+    background-color: #b5bb00;
+    color: #ffffff;
+    text-align: center;
+}
+
+.Works h2{
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+.footer h2 {
+    font-size: 20px;
+}
