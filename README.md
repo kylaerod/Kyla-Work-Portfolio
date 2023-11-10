@@ -2,30 +2,35 @@
 
 ## Description
 
-This project was created to allow greater accessibility to its users. By adding proper semantics and alt atributes, we are able to create a code that creates a cleaner code and much more accesible site. 
+This project was to display the several works created by me to showcases my skills. Although these images and links are place-holders, it provides a place for my projects to be presented to potential employers.
 
 ## Installation
 
-This project was completed using starter code from gitHub by username urban-octo-telegram. It was then improved with html semantics. The only adjustment to code was either the removal of repetative functions, the renaming of divs, or the adjustment of spacing.
+This project was completed from scratch in VS Code. While using references, I implemented new skills such as gradients and linked images, while using basic tecniques such as anchored links and classic casscading techqniques. 
 
 ## Usage
 
-After cloning the starter code to my computer and into my repository, I made sure throughout the project, that while altering the code, the webpage remained the same aestically. The goal was to alter semantics and increase the webpage's accessibility, not the webpage itself.
+By starting with a basic skeleton, you then add in you html for whatever structure you would prefer. You then create a style.css sheet and get creative! This project is for you, so it gets to be subjective.
 
-By comparing this to the starter code, we can learn a lot about efficient and neat coding that makes it easier to keep track of our work.
-
-![Top of the page](<assets-images/Horiseon SC 1.png>)
-![Middle of the page](<assets-images/Horiseon SC 2.png>)
+![Top of the page](<images/Website SC.png>)>
+![Middle of the page](<images/Website SC 2.png>)
+![Bottom of the page](<images/Website SC 3.png>)>
 
 ## Credits
 
-The starter code was provided by gitHub unsername urban-octo-telegram, whos gitHub is linked below along with the starter code I used for this project.
+Code that was referenced by gitHub unsername urban-octo-telegram, whos gitHub is linked below along with the starter code I used for this project.
 
 https://github.com/coding-boot-camp/urban-octo-telegram
 
 I was also provided this resource as well as instruction from the University of Minnesota's Coding bootcamp administration.
 
 https://bootcampspot.instructure.com/courses/4983/assignments/64607?module_item_id=1115629
+
+These links were also used to brush up on basics:
+
+https://blog.hubspot.com/marketing/jump-link-same-page#:~:text=Name%20the%20object%20or%20text,to%20that%20text%20or%20object.
+
+https://blog.hubspot.com/marketing/jump-link-same-page
 
 ## License
 
