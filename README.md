@@ -14,7 +14,7 @@ By starting with a basic skeleton, you then add in you html for whatever structu
 
 ![Top of the page](<Website SC.png>)
 ![Middle of the page](<Website SC 2.png>)
-![Bottom of the page](<Website SC 3.png>)>
+![Bottom of the page](<Website SC 3.png>)
 
 ## Credits
 
