@@ -11,7 +11,7 @@ body {
 
 .header{
 padding: 20px;
-background-color: aquamarine;
+background-color: linear-gradient(#42455a,#42455a),radial-gradient(circle at top left, #fd00da,#19d7f8);
 color: white;
 }
 
@@ -47,10 +47,12 @@ p {
 }
 
 .avatar img{
-    width: 500px;
-    height: 500px;
+    width: 400px;
+    height: 400px;
     margin-bottom: 25px;
-    margin-left: 500px;
+    margin-left: 575px;
+    margin-top: 50px;
+    text-align: center;
     
 }
 
@@ -65,20 +67,20 @@ p {
 }
 
 .Welcome {
-    margin-bottom: 20px;
-    margin-right: -200px;
-    margin-left: 100px;
-    padding: 50px;
-    height: 300px;
+    margin: 25px -200px 20px 100px;
+    padding: 20px;
+    height: 200px;
     font-family: serif;
-    background-color: #b5bb00;
     color: #ffffff;
     text-align: center;
 }
 
 .Welcome h2{
     margin-bottom: 20px;
-    font-size: 36px;
+    font-size: 50px;
+}
+.Welcome p{
+    font-size: 20px;
 }
 
 .About-the-Artist {
@@ -88,14 +90,19 @@ p {
     padding: 50px;
     height: 300px;
     font-family: serif;
-    background-color: #b5bb00;
     color: #ffffff;
     text-align: center;
+    border: 2px solid transparent;
+    border-radius: 20px;
+    border-width: -300px;
+    background-image: linear-gradient(#42455a,#42455a),radial-gradient(circle at top left, #fd00da,#19d7f8);
+    background-origin: border-box;
+    background-clip: content-box,border-box;
 }
 
 .About-the-Artist h2{
     margin-bottom: 20px;
-    font-size: 36px;
+    font-size: 40px;
 }
 
 .Works {
@@ -103,11 +110,15 @@ p {
     margin-right: -200px;
     margin-left: 100px;
     padding: 50px;
-    height: 300px;
+    height: 500px;
     font-family: serif;
-    background-color: #b5bb00;
     color: #ffffff;
     text-align: center;
+    border: 2px solid transparent;
+    border-radius: 20px;
+    background-image: linear-gradient(#42455a,#42455a),radial-gradient(circle at top left, #fd00da,#19d7f8);
+    background-origin: border-box;
+    background-clip: content-box,border-box;
 }
 
 .Works h2{
@@ -115,10 +126,43 @@ p {
     font-size: 36px;
 }
 
+#campfire{
+    background-image: url(camp.jpg);
+   width: 300px;
+   height: 150px;
+   float: left;
+   margin-left: 100px;
+}
+
+#city{
+    background-image: url(city.jpg);
+    width: 300px;
+   height: 150px;
+   float: right;
+   margin-right: 150px;
+}
+
+#forest{
+    background-image: url(forest.jpg);
+    width: 300px;
+    height: 150px;
+    float: left;
+    margin: 25px 300px 0 100px;
+    display: inline-block
+}
+
+#eye{
+    background-image: url(eye\ sky.png);
+    width: 300px;
+    height: 150px;
+    float: right;
+    margin-top: 175px;
+}
+
 .footer {
     padding: 30px;
     clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: serif
     text-align: center;
 }
 
